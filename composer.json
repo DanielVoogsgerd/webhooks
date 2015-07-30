@@ -1,5 +1,5 @@
 {
-    "name": "DanielVoogsgerd/Webhooks",
+    "name": "voogsgerd/webhooks",
     "description": "An Webhook server for PHP",
     "license": "MIT",
     "minimum-stability": "stable",
