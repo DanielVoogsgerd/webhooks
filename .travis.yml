@@ -11,4 +11,7 @@ before_script:
 
 script:
 #  - vendor/bin/phpspec run
-  - php -l ./**/*.php # Sceptic whether Travis Supports globbing like this, but it's worth a shot.
+  - php -l ./src/Webhook.php
+  - php -l ./src/WebhookInterface.php
+  - php -l ./src/GithubDeployer.php
+  - php -l ./src/GithubWebhook.php
