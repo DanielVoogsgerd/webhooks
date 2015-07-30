@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "psr-4": { "Webhook\\": "src/" }
+  },
+  "require": {
+    "kzykhys/git": "dev-master"
+  }
+}
