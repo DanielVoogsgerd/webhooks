@@ -13,5 +13,5 @@ script:
 #  - vendor/bin/phpspec run
   - php -l ./src/Webhook.php
   - php -l ./src/WebhookInterface.php
+  - php -l ./src/Deployer.php
   - php -l ./src/GithubDeployer.php
-  - php -l ./src/GithubWebhook.php
