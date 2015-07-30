@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "aba537a143d67a9298f40dd05c659350",
+    "hash": "f5e85cdbaa483ad77c374ecc6d87163a",
     "packages": [
         {
             "name": "kzykhys/git",
-            "version": "dev-master",
+            "version": "v0.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kzykhys/PHPGit.git",
-                "reference": "8b3ee3147d58e0aee62610f0aebcd30eb076ad5d"
+                "reference": "3c4db987494c38eac300593719a4a7832abddadd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kzykhys/PHPGit/zipball/8b3ee3147d58e0aee62610f0aebcd30eb076ad5d",
-                "reference": "8b3ee3147d58e0aee62610f0aebcd30eb076ad5d",
+                "url": "https://api.github.com/repos/kzykhys/PHPGit/zipball/3c4db987494c38eac300593719a4a7832abddadd",
+                "reference": "3c4db987494c38eac300593719a4a7832abddadd",
                 "shasum": ""
             },
             "require": {
@@ -50,7 +50,7 @@
                 }
             ],
             "description": "A Git wrapper for PHP5.3+",
-            "time": "2014-02-27 13:14:59"
+            "time": "2014-02-15 06:18:00"
         },
         {
             "name": "symfony/options-resolver",
@@ -159,9 +159,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "kzykhys/git": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],

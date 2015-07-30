@@ -9,10 +9,10 @@
             "email": "daniel@voogsgerd.nl"
         }
     ],
-    "require": {
-        "kzykhys/git": "dev-master"
-    },
     "autoload": {
         "psr-4": { "Webhook\\": "src/" }
+    },
+    "require": {
+        "kzykhys/git": "^0.1.2"
     }
 }
