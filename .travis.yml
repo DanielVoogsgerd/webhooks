@@ -15,3 +15,8 @@ script:
   - php -l ./src/WebhookInterface.php
   - php -l ./src/Deployer.php
   - php -l ./src/GithubDeployer.php
+
+notifications:
+    webhooks:
+        urls:
+            - http://deploy.realiseweb.nl/notify.php
