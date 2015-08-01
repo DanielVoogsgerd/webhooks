@@ -1,6 +1,6 @@
 PHP Webhook
 ===========
-[![Build Status](https://travis-ci.org/DanielVoogsgerd/Webhooks.svg?branch=master)](https://travis-ci.org/DanielVoogsgerd/Webhooks)
+[![Build Status](https://travis-ci.org/DanielVoogsgerd/webhooks.svg?branch=master)](https://travis-ci.org/DanielVoogsgerd/webhooks)
 
 An object oriented approach to implementing Webhooks/Deploy systems using PHP
 
